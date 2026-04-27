@@ -14,7 +14,7 @@ This project is an interactive dashboard built using Power BI to analyze sales d
 - Sales_Dashboard.pbix
 
 ## 🖼 Dashboard Preview
-(dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 🎥 Project Demo
 Watch the demo video here:
