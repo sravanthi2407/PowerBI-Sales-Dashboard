@@ -13,9 +13,6 @@ This project is an interactive dashboard built using Power BI to analyze sales d
 ## 📁 Project File
 - Sales_Dashboard.pbix
 
-## 🖼 Dashboard Preview
-![Dashboard](dashboard.png)
-
 ## 🎥 Project Demo
 Watch the demo video here:
 https://www.linkedin.com/posts/julappa-gari-sravanthi-116245330_powerbi-dashboard-dataanalytics-activity-7454443491214004225-2PPg
