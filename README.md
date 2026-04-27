@@ -18,4 +18,6 @@ Watch the demo video here:
 https://www.linkedin.com/posts/julappa-gari-sravanthi-116245330_powerbi-dashboard-dataanalytics-activity-7454443491214004225-2PPg
 
 ## 📌 Insights
-This dashboard helps in analyzing sales performance across regions and products, and identifying trends effectively.
+- Sales performance varies across regions
+- Certain products contribute more to overall sales
+- Trends can be identified over time
